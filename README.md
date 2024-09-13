@@ -1,4 +1,4 @@
-# Operating System Homework
+# Operating System Assignments
 
 ## 1. **Inline Assembly and `rdtsc`**
    - Use inline assembly in C to add values to CPU registers and memory, and read the time-stamp counter (`rdtsc`) value into memory.
